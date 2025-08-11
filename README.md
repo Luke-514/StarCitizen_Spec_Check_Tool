@@ -1,0 +1,2 @@
+# StarCitizen_Spec_Check_Tool
+Star Citizenを出来るだけ快適にプレイするための推奨スペックチェックツール
