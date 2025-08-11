@@ -1,6 +1,6 @@
 # これは何をするためのもの？
 作者の考えたStar Citizenを出来るだけ快適に遊ぶことのできる推奨スペックをチェックするツールです  
-判定は厳しめなので、参考程度にご利用ください  
+(判定は少し厳しめです)
   
 # ツールの入手と起動
 1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_Spec_Check_Tool/releases/latest)からツールのZIPファイル(StarCitizen_Spec_Check_Tool.zip)をダウンロードします  
@@ -12,6 +12,7 @@
 # 利用上の注意
 > [!CAUTION]  
 > あくまでも作者が考えた推奨スペックに適合するかのチェックツールです  
+> 一部がNGでも、遊ぶことのできるPCは沢山ありますので、参考程度にご利用ください  
 > SCプレイヤーが利用しているPCスペックは[公式テレメトリー](https://robertsspaceindustries.com/telemetry)をご覧ください  
   
 # よくある質問
