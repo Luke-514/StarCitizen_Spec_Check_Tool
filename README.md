@@ -1,2 +1,55 @@
-# StarCitizen_Spec_Check_Tool
-Star Citizenを出来るだけ快適にプレイするための推奨スペックチェックツール
+# これは何をするためのもの？
+作者の考えたStar Citizenを出来るだけ快適に遊ぶことのできる推奨スペックをチェックするツールです  
+  
+# ツールの入手と起動
+1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_Spec_Check_Tool/releases/latest)からツールのZIPファイル(StarCitizen_Spec_Check_Tool.zip)をダウンロードします  
+  
+2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_Spec_Check_Tool.exeを起動してください  
+&emsp;(展開したフォルダ内にあるファイルはツールの動作に必要ですので、削除しないよう気を付けてください)  
+  
+# 利用上の注意(共通)
+> [!CAUTION]  
+>・あくまでも作者が考えた推奨スペックに適合するかのチェックツールです  
+>&emsp;どこかの項目がNGとなっても、よほどスペックが低くなければプレイ可能です  
+  
+# よくある質問
+Q.&nbsp;ツールを起動するとWindows Defenderに止められる  
+A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してください  
+&emsp;<img src="image/defender.jpg" width="45%" />
+<img src="image/defender_accept.png" width="45%" />  
+  
+# 利用規約
+許可  
+・個人利用  
+・SNSや動画、ブログでの紹介  
+&emsp;(掲載連絡は不要ですが、当ページのリンクを貼ってください)  
+  
+禁止  
+・商用利用  
+・二次配布  
+・逆コンパイル、コードの抽出  
+  
+# 免責事項
+本ツールの使用によって発生した、いかなる損害に対しても作者は一切の責任を負いません。  
+Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium Rights LLCの登録商標です。  
+  
+# 作者
+Luke514  
+  
+Twitter  
+@rx_luke  
+  
+Star Citizen紹介コード(referral code)  
+STAR-9YPT-ZV5J  
+  
+# Special Thanks
+SEAGANG  
+Someone  
+Ugachain  
+aritu  
+ぽえな  
+あしま  
+[Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)  
+  
+# 寄付
+<a href="https://www.buymeacoffee.com/Luke514" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
