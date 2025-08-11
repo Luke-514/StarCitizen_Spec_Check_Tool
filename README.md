@@ -21,6 +21,10 @@ A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してくださ
 &emsp;<img src="image/defender.jpg" width="45%" />
 <img src="image/defender_accept.png" width="45%" />  
   
+Q.&nbsp;GPUが複数出力される  
+A.&nbsp;複数のディスプレイを接続していると、その数だけ出力されます  
+&emsp;トラブルシューティングに使用するため、仕様として残しています  
+  
 # 利用規約
 許可  
 ・個人利用  
