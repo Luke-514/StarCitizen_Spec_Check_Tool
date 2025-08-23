@@ -14,9 +14,10 @@ https://lukesplaygrounds.com/2024/11/05/recommended-pc-specs-for-star-citizen/
   
 # 利用上の注意
 > [!CAUTION]  
-> あくまでも作者が考えた推奨スペックに適合するかのチェックツールです  
-> 一部がNGでも、遊ぶことのできるPCは沢山ありますので、参考程度にご利用ください  
-> SCプレイヤーが利用しているPCスペックは[公式テレメトリー](https://robertsspaceindustries.com/telemetry)をご覧ください  
+> ・あくまでも作者が考えた推奨スペックに適合するかのチェックツールです  
+> &emsp;一部がNGでも、遊ぶことのできるPCは沢山ありますので、参考程度にご利用ください
+>   
+> ・SCプレイヤーが利用しているPCスペックは[公式テレメトリー](https://robertsspaceindustries.com/telemetry)をご覧ください  
   
 # よくある質問
 Q.&nbsp;ツールを起動するとWindows Defenderに止められる  
