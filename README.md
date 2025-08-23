@@ -2,6 +2,9 @@
 作者の考えたStar Citizenを出来るだけ快適に遊ぶことのできる推奨スペックをチェックするツールです  
 (判定は少し厳しめです)
   
+判定基準などは以下の記事をご覧ください  
+https://lukesplaygrounds.com/2024/11/05/recommended-pc-specs-for-star-citizen/  
+  
 # ツールの入手と起動
 1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_Spec_Check_Tool/releases/latest)からツールのZIPファイル(StarCitizen_Spec_Check_Tool.zip)をダウンロードします  
   
