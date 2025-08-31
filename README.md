@@ -7,7 +7,7 @@ https://lukesplaygrounds.com/2024/11/05/recommended-pc-specs-for-star-citizen/
   
 <img src="image/spec.jpg" width="50%" />  
   
-Star Citizenのアカウント登録や、購入方法は以下の記事をご覧ください  
+Star Citizenのアカウント登録、購入、インストールの方法は以下の記事をご覧ください  
 https://lukesplaygrounds.com/2024/04/07/how-to-start-star-citizen/  
   
 # ツールの入手と起動
