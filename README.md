@@ -7,6 +7,9 @@ https://lukesplaygrounds.com/2024/11/05/recommended-pc-specs-for-star-citizen/
   
 <img src="image/spec.jpg" width="50%" />  
   
+アカウント登録や購入方法は以下の記事をご覧ください  
+https://lukesplaygrounds.com/2024/04/07/how-to-start-star-citizen/  
+  
 # ツールの入手と起動
 1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_Spec_Check_Tool/releases/latest)からツールのZIPファイル(StarCitizen_Spec_Check_Tool.zip)をダウンロードします  
   
