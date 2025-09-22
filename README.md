@@ -44,7 +44,9 @@ A.&nbsp;複数のディスプレイを接続していると、その数だけ出
 禁止  
 ・商用利用  
 ・二次配布  
-・逆コンパイル、コードの抽出  
+・リバースエンジニアリング  
+・逆コンパイル  
+・コードの転用  
   
 # 免責事項
 本ツールの使用によって発生した、いかなる損害に対しても作者は一切の責任を負いません。  
@@ -53,11 +55,10 @@ Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium 
 # 作者
 Luke514  
   
-Twitter  
-@rx_luke  
+Twitter：@rx_luke  
   
-Star Citizen紹介コード(referral code)  
-STAR-9YPT-ZV5J  
+Star Citizen紹介コード(referral code)：STAR-9YPT-ZV5J  
+(アカウント登録時に入力すると、ゲーム内通貨が50,000 UECもらえます)  
   
 # Special Thanks
 SEAGANG  
