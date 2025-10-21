@@ -52,6 +52,8 @@ A.&nbsp;複数のディスプレイを接続していると、その数だけ出
 本ツールの使用によって発生した、いかなる損害に対しても作者は一切の責任を負いません。  
 Star Citizen®、Roberts Space Industries®、Cloud Imperium®はCloud Imperium Rights LLCの登録商標です。  
   
+<img src="image/MadeByTheCommunity_Black.png" width="10%" />  
+  
 # 作者
 Luke514  
   
