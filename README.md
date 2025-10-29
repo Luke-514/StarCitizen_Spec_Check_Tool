@@ -3,7 +3,7 @@
 チェック完了後にStar Citizenのアカウント登録画面への移動も可能です  
   
 判定基準などは以下の記事をご覧ください  
-https://lukesplaygrounds.com/2024/11/05/recommended-pc-specs-for-star-citizen/  
+https://lukesplaygrounds.com/recommended-pc-specs-for-star-citizen/  
   
 <img src="image/spec.jpg" width="50%" />  
   
@@ -66,7 +66,7 @@ Luke514
   
 Twitter：@rx_luke  
   
-Star Citizen紹介コード(referral code)：STAR-9YPT-ZV5J  
+Star Citizen紹介コード(referral code)：[STAR-9YPT-ZV5J](https://robertsspaceindustries.com/enlist?referral=STAR-9YPT-ZV5J)  
 (アカウント登録時に入力すると、ゲーム内通貨が50,000 UECもらえます)  
   
 # Special Thanks
