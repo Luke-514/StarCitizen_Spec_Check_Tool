@@ -47,6 +47,8 @@ A.&nbsp;複数のディスプレイを接続していると、その数だけ出
 ・逆コンパイル  
 ・コードの転用  
   
+※本規約は予告なく変更されることがあります  
+  
 # 免責事項
 本ツールの使用によって発生した、いかなる損害に対しても作者は一切の責任を負いません。  
 The author shall not be liable for any damages arising from the use of this tool.  
