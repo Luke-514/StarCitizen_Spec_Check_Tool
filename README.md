@@ -75,11 +75,13 @@ Star Citizen紹介コード(referral code)：[STAR-9YPT-ZV5J](https://robertsspa
 [お問い合わせ](https://lukesplaygrounds.com/about/)
   
 # Special Thanks
+blackhaimu  
 SEAGANG  
 Someone  
 Ugachain  
 aritu  
 ぽえな  
+NAREL  
 あしま  
 [Star Citizen Japan Community](http://discord.gg/Wa99tKE48e)  
   
