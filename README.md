@@ -9,7 +9,7 @@ https://lukesplaygrounds.com/recommended-pc-specs-for-star-citizen/
 Star Citizenのアカウント登録、購入、インストールの方法は以下の記事をご覧ください  
 https://lukesplaygrounds.com/how-to-start-star-citizen/  
   
-# ツールの入手と起動
+# ツールのダウンロードと起動
 1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen_Spec_Check_Tool/releases/latest)からツールのZIPファイル(StarCitizen_Spec_Check_Tool.zip)をダウンロードします  
   
 2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_Spec_Check_Tool.exeを起動してください  
