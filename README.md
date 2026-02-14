@@ -24,10 +24,6 @@ https://lukesplaygrounds.com/how-to-start-star-citizen/
 > ・SCプレイヤーが利用しているPCスペックは[公式テレメトリー](https://robertsspaceindustries.com/telemetry)をご覧ください  
   
 # よくある質問
-Q.&nbsp;最新のツールをダウンロードしたのにアップデート通知が出る  
-A.&nbsp;Windows標準の「すべて展開」を使用してZipファイルを展開すると表示されなくなります  
-&nbsp;&emsp;<img src="image/unzip.jpg" width="70%" />  
-  
 Q.&nbsp;ツールを起動するとWindows Defenderに止められる  
 A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してください  
 &emsp;<img src="image/defender.jpg" width="45%" />
