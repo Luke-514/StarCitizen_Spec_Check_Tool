@@ -21,7 +21,9 @@ https://lukesplaygrounds.com/how-to-start-star-citizen/
 > ・あくまでも作者が考えた推奨スペックに適合するかのチェックツールです  
 > &emsp;一部がNGでも、遊ぶことのできるPCは沢山ありますので、参考程度にご利用ください  
 >  
-> ・一部の特殊な製品は結果がNGとして表示されることがあります  
+> ・一部の特殊な製品は結果がNGとして表示されることがあります
+>  
+> ・VRAMが取得できない製品は結果がN/Aとして表示されることがあります  
 >  
 > ・SCプレイヤーが利用しているPCスペックは[公式テレメトリー](https://robertsspaceindustries.com/telemetry)をご覧ください  
   
