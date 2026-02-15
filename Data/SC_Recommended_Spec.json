@@ -16,7 +16,6 @@
     "Ultra 7 26",
     "Ultra 9 27",
     "Ultra 9 28",
-    "Ryzen 5 5",
     "Ryzen 7 5",
     "Ryzen 7 PRO 5",
     "Ryzen 9 5",
@@ -71,3 +70,4 @@
   "VRAM_GB": 10,
   "VirtualMemory_GB": 10
 }
+
