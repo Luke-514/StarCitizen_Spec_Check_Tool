@@ -10,7 +10,7 @@ Star Citizenのアカウント登録、購入、インストールの方法は�
 https://lukesplaygrounds.com/how-to-start-star-citizen/  
   
 # ツールのダウンロードと起動
-1.&nbsp;**Releases**からツールのZIPファイル(StarCitizen_Spec_Check_Tool.zip)をクリックしてダウンロードします  
+1.&nbsp;[**Releases**](https://github.com/Luke-514/StarCitizen_Spec_Check_Tool/releases/latest)からツールのZIPファイル(StarCitizen_Spec_Check_Tool.zip)をクリックしてダウンロードします  
   
 &emsp;<a href="https://github.com/Luke-514/StarCitizen_Spec_Check_Tool/releases/latest"><img src="image/download.png" width="200" alt="ダウンロードはこちら！"></a>  
   
