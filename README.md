@@ -1,9 +1,6 @@
 # これは何をするためのもの？
 作者の考えたStar Citizenを出来るだけ快適に遊ぶことのできる推奨スペックをチェックするツールです  
   
-判定基準などは以下の記事をご覧ください  
-https://lukesplaygrounds.com/recommended-pc-specs-for-star-citizen/  
-  
 <img src="image/spec.jpg" width="50%" />  
   
 Star Citizenのアカウント登録、購入、インストールの方法は以下の記事をご覧ください  
@@ -27,7 +24,8 @@ https://lukesplaygrounds.com/how-to-start-star-citizen/
 >  
 > ・VRAMが取得できない製品は結果がN/Aとして表示されることがあります  
 >  
-> ・SCプレイヤーが利用しているPCスペックは[公式テレメトリー](https://robertsspaceindustries.com/telemetry)をご覧ください  
+>・判定基準などは以下の記事をご覧ください  
+>&emsp;https://lukesplaygrounds.com/recommended-pc-specs-for-star-citizen/  
   
 # よくある質問
 Q.&nbsp;ツールを起動するとWindows Defenderに止められる  
