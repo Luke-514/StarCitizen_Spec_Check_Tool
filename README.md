@@ -1,14 +1,14 @@
 # これは何をするためのもの？
 作者の考えたStar Citizenを出来るだけ快適に遊ぶことのできる推奨スペックをチェックするツールです  
   
+>[!NOTE]
+>Star Citizenをインストールされていない方でも[**日本語化ツール**](https://github.com/Luke-514/StarCitizen_JP_Tool)に同梱されている  
+>推奨スペックチェックツールが利用可能になりましたので、今後はそちらをお使いください
+  
 <img src="image/spec.jpg" width="50%" />  
   
 Star Citizenのアカウント登録、購入、インストールの方法は以下の記事をご覧ください  
 https://lukesplaygrounds.com/how-to-start-star-citizen/  
-  
->[!NOTE]
->Star Citizenをインストールされていない方でも[**日本語化ツール**](https://github.com/Luke-514/StarCitizen_JP_Tool)に同梱されている  
->推奨スペックチェックツールが利用可能になりましたので、今後はそちらをお使いください
   
 # ツールのダウンロードと起動
 1.&nbsp;[**Releases**](https://github.com/Luke-514/StarCitizen_Spec_Check_Tool/releases/latest)からツールのZipファイル(StarCitizen_Spec_Check_Tool.zip)をクリックしてダウンロードします  
